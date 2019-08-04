@@ -1,0 +1,11 @@
+*{margin: 0;
+  padding: 0;}
+
+div{
+    width:31%;
+    padding-top: 31%;
+    margin:1%;
+    border-radius: 20%;
+    background: orange;
+    float:left;
+  }
